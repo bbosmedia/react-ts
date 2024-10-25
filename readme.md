@@ -10,3 +10,11 @@ npx create-react-app my-app
 ```
 
 (npx доступен в npm 5.2+ и выше; для старых версий npm см. инструкции).
+
+### `npm`
+
+```bash
+npm init react-app my-app
+```
+
+npm init `<initializer>` доступен в npm 6+.
